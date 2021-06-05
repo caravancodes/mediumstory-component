@@ -1,6 +1,6 @@
 ## mediumstory-component
 Medium sample for component
-- Medium story [CLick Here](https://faisalamircs.medium.com/membuat-component-xml-milikmu-sendiri-generated-dari-kotlin-class-android-bc1a37a46814)
+- Medium story [Click Here](https://faisalamircs.medium.com/membuat-component-xml-milikmu-sendiri-generated-dari-kotlin-class-android-bc1a37a46814)
 
 ## Colaborator
 Very open to anyone, I'll write your name under this, please contribute by sending an email to me
